@@ -4,4 +4,4 @@ Repository to be populated with neuromorphic computing techniques, neurons, syna
 
 ## Zebra Fish Connectome plots
 <img src="https://github.com/alinvdu/neuromorphic-computing/assets/16021447/1f34fd90-a81b-433c-b3f8-5be8ec7c5517" width="960px" />
-<img src="https://github.com/alinvdu/neuromorphic-computing/assets/16021447/3b6c5a5e-49ff-4b55-afd4-216fe13d0cb3" width="960px" />
+<img src="https://github.com/alinvdu/neuromorphic-connectome-approach/assets/16021447/bcccf8e8-fa7d-4522-9988-0b0218bdd8ed" width="960px" />
